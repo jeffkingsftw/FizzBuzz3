@@ -16,7 +16,7 @@ Installation instructions
 - Build the project with the Maven pom.xml file and run FizzBuzz3Test
 
 Program Guide
-- The program contains a FizzBuzz2 class which takes in 2 integers with its constructor.  
+- The program contains a FizzBuzz3 class which takes in 2 integers with its constructor.  
 	- The integers represent the range of the list for which the output is based on.
 	
 - This program allows you to print the statistics of the list.  
